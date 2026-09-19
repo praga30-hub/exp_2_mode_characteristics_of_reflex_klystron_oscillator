@@ -8,7 +8,7 @@ To study the mode characteristics of a reflex klystron and hence determine the m
 
 ## Equipment and Components
 
-1. Klystron power supply MTI KP 503
+1. Klystron power supply MTI KP 503.    
 2. Klystron tube / 2K25
 3. Isolator MTI/NVIS-204
 4. Frequency meter MTI/NVIS-205A
