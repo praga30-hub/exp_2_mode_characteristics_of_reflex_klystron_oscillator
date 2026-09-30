@@ -68,8 +68,8 @@ As the bunches pass back through the resonator grids they interact with the gap 
 13. Change the repeller voltage and read the power and frequency for each repeller voltage.
 
 ## Observation
- 
-https://photos.app.goo.gl/Vuts5T6qv2a4kfL66
+ <img width="900" height="1600" alt="IMG-20260930-WA0000" src="https://github.com/user-attachments/assets/6326bbcb-29fe-4235-bf84-d0f1ad8ae30c" />
+
 ## Precautions
 
 1. Check the connections before switching on the kit.
@@ -84,5 +84,4 @@ https://photos.app.goo.gl/Vuts5T6qv2a4kfL66
 10. Do not increase the repeller voltage beyond −70 V; it should stay between −70 V and 270 V.
 
 ## Conclusion
-
-*(Write your own.)*
+Thus, the mode characteristics of a reflex klystron were studied. The output power and frequency were observed for different modes. It was found that the reflex klystron operates at discrete modes, and the maximum output power is obtained at the optimum mode.
