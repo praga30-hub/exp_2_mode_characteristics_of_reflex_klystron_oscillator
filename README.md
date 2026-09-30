@@ -76,7 +76,7 @@ As the bunches pass back through the resonator grids they interact with the gap 
 2. Keep all knobs at their minimum positions before switching on the VSWR meter / klystron power supply.
 3. On the klystron power supply the **HT must be OFF** before switching on the mains supply.
 4. The beam knob must be fully anti-clockwise and the repeller voltage knob fully clockwise. and
-5. Switch on the mains and allow some warm-up time for accurate readings.https://photos.app.goo.gl/Vuts5T6qv2a4kfL66
+5. Switch on the mains and allow some warm-up time for accurate readings.
 6. Make all connections properly.
 7. Do not look directly into the waveguide.
 8. After the experiment, switch off the mains and return all knobs to their minimum positions before leaving the bench.
